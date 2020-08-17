@@ -16,5 +16,6 @@ public class helloworld {
         System.out.print("age="+age);
         map.remove("major");
         System.out.print(map);
+        System.out.print(map);
     }
 }
