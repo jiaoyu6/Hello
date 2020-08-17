@@ -15,6 +15,7 @@ public class helloworld {
         String age=map.get("age");
         System.out.print("age="+age);
         map.remove("major");
+        map.remove("major");
         System.out.print(map);
         System.out.print(map);
     }
